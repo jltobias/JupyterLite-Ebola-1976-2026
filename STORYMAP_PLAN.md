@@ -22,6 +22,8 @@ Use an introductory map that frames the whole continent, followed by regional an
 | **2025: separate DRC and Uganda events** | Uganda → DRC | [WHO Uganda 2025 report](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON566) and [October 2025 DRC map](https://commons.wikimedia.org/wiki/File:ECDM_20251003_DRC_Ebola.pdf). Why must these remain separate timeline records? |
 | **2026: a changing outbreak** — DRC and affected cross-border locations | DRC/Ituri → regional locator | Compare a [June 2026 snapshot](https://commons.wikimedia.org/wiki/File:ECDM_20260604_DRC_Ebola_outbreak(1).pdf), a version-pinned [Ituri map](https://commons.wikimedia.org/wiki/File:Map_of_the_Ituri_Province_Ebola_outbreak.svg), and the [WHO report of 20 November 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630). What was known at each reporting date, and what remains unresolved? |
 
+[Palmer et al.'s September 2026 brief](https://doi.org/10.19088/MHRN.2026.001) can accompany the 2026 stop as a linked explanation of cross-border mobility and preparedness in South Sudan. Keep the brief's August writing date visible; do not imply that corridors of travel or counties at risk are confirmed transmission locations. Its three third-party maps are [not cleared for reuse here](MAP_CATALOG.md#third-party-maps-in-the-cross-border-brief).
+
 ## Media and visualization pattern
 
 - One primary map per stop, with a **visible date, scale, source, and license**. Keep a transcript or text description for map-only information.

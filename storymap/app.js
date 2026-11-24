@@ -7,6 +7,7 @@
     place: byId('place'), virus: byId('virus'), summary: byId('summary'),
     question: byId('question'), sourceLink: byId('source-link'), sourceLabel: byId('source-label'),
     visualLink: byId('visual-link'), visualLabel: byId('visual-label'),
+    contextLink: byId('context-link'), contextLabel: byId('context-label'),
     stopNumber: byId('stop-number'), progress: byId('progress-text'),
     prev: byId('prev-button'), next: byId('next-button'),
     slider: byId('year-slider'), timelineCurrent: byId('timeline-current'),
@@ -96,6 +97,11 @@
     els.sourceLabel.textContent = stop.source;
     els.visualLink.href = stop.visualUrl;
     els.visualLabel.textContent = stop.visual;
+    els.contextLink.hidden = !stop.contextUrl;
+    if (stop.contextUrl) {
+      els.contextLink.href = stop.contextUrl;
+      els.contextLabel.textContent = stop.context;
+    }
     els.stopNumber.textContent = `${String(index + 1).padStart(2, '0')} / ${String(stops.length).padStart(2, '0')}`;
     els.progress.textContent = `Stop ${index + 1} of ${stops.length}`;
     els.prev.disabled = index === 0;
