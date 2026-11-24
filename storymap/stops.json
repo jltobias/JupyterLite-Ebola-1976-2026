@@ -4,7 +4,8 @@
     "summary": "The first documented Sudan virus outbreak spread through communities and health facilities around Nzara and Maridi. The original investigation describes four affected towns and shows why the 1976 story begins in more than one place.",
     "question": "How did local movement and hospital care shape the first documented outbreak?",
     "source": "WHO/International Study Team, 1978", "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395561/",
-    "visual": "Original 1976 field report and location map", "visualUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395561/"
+    "visual": "Original 1976 field report and location map", "visualUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395561/",
+    "context": "UKHSA historical overview and map (OGL v3.0; map revised February 2025)", "contextUrl": "https://www.gov.uk/government/publications/ebola-overview-history-origins-and-transmission/ebola-overview-history-origins-and-transmission"
   },
   {
     "id": "yambuku-1976", "year": 1976, "period": "August–October 1976", "chapter": "Discovery", "title": "A second outbreak, a new virus", "place": "Yambuku area", "country": "Present-day Democratic Republic of the Congo", "virus": "Ebola virus", "lat": 2.82, "lon": 22.22, "zoom": 7,

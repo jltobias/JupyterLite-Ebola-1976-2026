@@ -19,7 +19,7 @@
 | StoryMap / Map Tour | [Open the live StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) · [Tour notes](STORYMAP_PLAN.md) | Live: 15 stops with persistent map and timeline |
 | Jupyter Book | [Literature review](LITERATURE_REVIEW.md) · [References](REFERENCES.md) | Project book planned |
 | JupyterLite Lab | [Historic geographic data collection](https://doi.org/10.6084/m9.figshare.1168886) | Project Lab planned |
-| 2D maps | [Interactive StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) · [Rights-checked map catalog](MAP_CATALOG.md) | Live locator map; historical map collection linked |
+| 2D maps | [Interactive StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) · [Rights-checked map catalog](MAP_CATALOG.md) · [UKHSA historical evidence map](https://www.gov.uk/government/publications/ebola-overview-history-origins-and-transmission/ebola-overview-history-origins-and-transmission#background) | Live locator map; historical map collection linked |
 | 3D maps | [Map design and data notes](STORYMAP_PLAN.md#map-design) · [Natural Earth basemap data](https://www.naturalearthdata.com/) | Project 3D map planned |
 | Data visualizations | [CDC outbreak chronology](https://www.cdc.gov/ebola/outbreaks/) · [WHO 2026 situation report](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630) | Project charts planned |
 | Videos | [CDC: *We Were There—Ebola*](https://www.youtube.com/watch?v=iZ3KWjBVW2k) · [CDC: 2014–2016 West Africa outbreak](https://www.youtube.com/watch?v=XqAtVDP-ELE) | External videos linked; reuse rights need checking before copying |
