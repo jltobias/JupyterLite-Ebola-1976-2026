@@ -24,6 +24,8 @@ Use an introductory map that frames the whole continent, followed by regional an
 
 [Palmer et al.'s September 2026 brief](https://doi.org/10.19088/MHRN.2026.001) can accompany the 2026 stop as a linked explanation of cross-border mobility and preparedness in South Sudan. Keep the brief's August writing date visible; do not imply that corridors of travel or counties at risk are confirmed transmission locations. Its three third-party maps are [not cleared for reuse here](MAP_CATALOG.md#third-party-maps-in-the-cross-border-brief).
 
+The 2026 stop also links the [Africa Center for Strategic Studies explainer](https://africacenter.org/spotlight/ebola-drc/) as secondary context on insecurity, access, and public communication (updated 6 November 2026). Keep its article date in the link label. Its [printable map and AFP photographs are not cleared for reuse](MAP_CATALOG.md#linked-2026-map-without-verified-reuse-rights); the tour's case facts should continue to cite the later WHO report.
+
 ## Media and visualization pattern
 
 - One primary map per stop, with a **visible date, scale, source, and license**. Keep a transcript or text description for map-only information.

@@ -8,6 +8,7 @@
     question: byId('question'), sourceLink: byId('source-link'), sourceLabel: byId('source-label'),
     visualLink: byId('visual-link'), visualLabel: byId('visual-label'),
     contextLink: byId('context-link'), contextLabel: byId('context-label'),
+    analysisLink: byId('analysis-link'), analysisLabel: byId('analysis-label'),
     stopNumber: byId('stop-number'), progress: byId('progress-text'),
     prev: byId('prev-button'), next: byId('next-button'),
     slider: byId('year-slider'), timelineCurrent: byId('timeline-current'),
@@ -101,6 +102,11 @@
     if (stop.contextUrl) {
       els.contextLink.href = stop.contextUrl;
       els.contextLabel.textContent = stop.context;
+    }
+    els.analysisLink.hidden = !stop.analysisUrl;
+    if (stop.analysisUrl) {
+      els.analysisLink.href = stop.analysisUrl;
+      els.analysisLabel.textContent = stop.analysis;
     }
     els.stopNumber.textContent = `${String(index + 1).padStart(2, '0')} / ${String(stops.length).padStart(2, '0')}`;
     els.progress.textContent = `Stop ${index + 1} of ${stops.length}`;

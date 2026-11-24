@@ -40,6 +40,8 @@ The live StoryMap keeps **place and time visible at every stop**: a persistent l
 
 **Terminology matters.** “Ebola disease” is the broad category; Ebola virus, Sudan virus, and Bundibugyo virus are distinct causes. The StoryMap should label species and case definitions for each event, and should never merge counts from different reports without reconciling their dates and definitions. [WHO fact sheet](https://www.who.int/news-room/fact-sheets/detail/ebola-disease)
 
+**2026 response context:** The [Africa Center for Strategic Studies explainer](https://africacenter.org/spotlight/ebola-drc/) (updated 6 November 2026) discusses insecurity, access, and misinformation in eastern DRC. It is linked from the final StoryMap stop as dated interpretation. Its map and AFP-credited photographs are [not included in the reusable visual catalog](MAP_CATALOG.md#linked-2026-map-without-verified-reuse-rights); later case counts here use the [WHO report of 20 November 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630).
+
 ## Source and attribution policy
 
 - **Outbreak chronology and counts:** Start with the [CDC history](https://www.cdc.gov/ebola/outbreaks/) and the event-specific WHO reports in [REFERENCES.md](REFERENCES.md). Each chart or map should show its source, report date, case definition, and last-updated date. The 2026 outbreak remains in progress; the [WHO report dated 20 November 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630) is the current reference used here, not a final total.
