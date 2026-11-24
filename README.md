@@ -23,7 +23,7 @@
 | 3D maps | [Map design and data notes](STORYMAP_PLAN.md#map-design) · [Natural Earth basemap data](https://www.naturalearthdata.com/) | Project 3D map planned |
 | Data visualizations | [CDC outbreak chronology](https://www.cdc.gov/ebola/outbreaks/) · [WHO 2026 situation report](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630) | Project charts planned |
 | Videos | [CDC: *We Were There—Ebola*](https://www.youtube.com/watch?v=iZ3KWjBVW2k) · [CDC: 2014–2016 West Africa outbreak](https://www.youtube.com/watch?v=XqAtVDP-ELE) | External videos linked; reuse rights need checking before copying |
-| Publications | [Literature review](LITERATURE_REVIEW.md) · [Full references](REFERENCES.md) · [Ebola virus disease primer](https://doi.org/10.1038/s41572-020-0147-3) | Available now |
+| Publications | [Literature review](LITERATURE_REVIEW.md) · [Full references](REFERENCES.md) · [Ebola virus disease primer](https://doi.org/10.1038/s41572-020-0147-3) · [Saad and Hashim's 2026 review](https://doi.org/10.1186/s43162-026-00659-2) | Available now |
 | Source and licensing guide | [Map catalog](MAP_CATALOG.md) · [References](REFERENCES.md#data-media-and-map-sources) | Available now |
 
 ## Story at a glance
