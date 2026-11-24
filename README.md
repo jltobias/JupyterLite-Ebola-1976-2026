@@ -2,29 +2,33 @@
 
 ![Decorative illustration of Africa beside a timeline, in blue and copper. It is conceptual artwork, not a data map.](assets/ebola-timeline-splash.png)
 
-**Explore 50 years of Ebola history through place and time.** This repository is being developed as a Map Tour and timeline, with companion maps, visualizations, a Jupyter Book, and a browser-based JupyterLite Lab. It begins with the 1976 outbreaks in present-day South Sudan and the Democratic Republic of the Congo (DRC) and extends through the ongoing 2026 Bundibugyo virus disease outbreak. The 2026 chapter must be updated as official reports change. [WHO disease overview](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) · [CDC outbreak history](https://www.cdc.gov/ebola/outbreaks/) · [WHO situation report, 20 November 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630)
+## 🗺️ [OPEN THE LIVE STORYMAP — 1976–2026 →](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/)
+
+**Follow 15 selected stops across 50 years.** The interactive map and timeline stay visible as you move through the tour; select a map pin, year, or event to jump to that story. [How the tour is sourced](STORYMAP_PLAN.md) · [Full references](REFERENCES.md)
+
+**Explore 50 years of Ebola history through place and time.** This repository publishes a Map Tour and timeline, with companion maps, visualizations, a Jupyter Book, and a browser-based JupyterLite Lab planned. It begins with the 1976 outbreaks in present-day South Sudan and the Democratic Republic of the Congo (DRC) and extends through the ongoing 2026 Bundibugyo virus disease outbreak. The 2026 chapter must be updated as official reports change. [WHO disease overview](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) · [CDC outbreak history](https://www.cdc.gov/ebola/outbreaks/) · [WHO situation report, 20 November 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630)
 
 **Featured 50-year perspective:** Peter Piot and Jean-Jacques Muyembe-Tamfum, [“50 years of Ebola research and response”](https://doi.org/10.1016/S0140-6736(26)01813-1), *The Lancet* (2026). Their paired lectures connect discovery and field investigation in 1976 with community-led response, research during outbreaks, and the institutions needed for future preparedness. See the [literature review](LITERATURE_REVIEW.md) and [full reference](REFERENCES.md#foundational-publications).
 
-> **Status, 24 November 2026:** The research, source catalog, and StoryMap outline are available here. Project-specific StoryMap, Jupyter Book, JupyterLite Lab, 2D/3D maps, and dashboards have not been published yet. Links below point to live source material or available project plans; they do not claim that a project app is deployed.
+> **Status, 24 November 2026:** The interactive StoryMap, research, source catalog, and references are published. The tour currently contains 15 selected stops; it is not a complete outbreak registry. Project-specific Jupyter Book, JupyterLite Lab, 3D maps, and dashboards are planned. The StoryMap includes an interactive 2D map.
 
 ## Explore
 
 | Experience | Open now | Project status |
 | --- | --- | --- |
-| StoryMap / Map Tour | [StoryMap plan](STORYMAP_PLAN.md) · [CDC Museum timeline](https://cdcmuseum.org/exhibits/show/ebola/item/7) | Project StoryMap planned |
+| StoryMap / Map Tour | [Open the live StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) · [Tour notes](STORYMAP_PLAN.md) | Live: 15 stops with persistent map and timeline |
 | Jupyter Book | [Literature review](LITERATURE_REVIEW.md) · [References](REFERENCES.md) | Project book planned |
 | JupyterLite Lab | [Historic geographic data collection](https://doi.org/10.6084/m9.figshare.1168886) | Project Lab planned |
-| 2D maps | [Rights-checked map catalog](MAP_CATALOG.md) · [CDC outbreak map and chronology](https://www.cdc.gov/ebola/outbreaks/) | Interactive project map planned |
+| 2D maps | [Interactive StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) · [Rights-checked map catalog](MAP_CATALOG.md) | Live locator map; historical map collection linked |
 | 3D maps | [Map design and data notes](STORYMAP_PLAN.md#map-design) · [Natural Earth basemap data](https://www.naturalearthdata.com/) | Project 3D map planned |
 | Data visualizations | [CDC outbreak chronology](https://www.cdc.gov/ebola/outbreaks/) · [WHO 2026 situation report](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630) | Project charts planned |
 | Videos | [CDC: *We Were There—Ebola*](https://www.youtube.com/watch?v=iZ3KWjBVW2k) · [CDC: 2014–2016 West Africa outbreak](https://www.youtube.com/watch?v=XqAtVDP-ELE) | External videos linked; reuse rights need checking before copying |
-| Publications | [Literature review](LITERATURE_REVIEW.md) · [Full references](REFERENCES.md) | Available now |
+| Publications | [Literature review](LITERATURE_REVIEW.md) · [Full references](REFERENCES.md) · [Ebola virus disease primer](https://doi.org/10.1038/s41572-020-0147-3) | Available now |
 | Source and licensing guide | [Map catalog](MAP_CATALOG.md) · [References](REFERENCES.md#data-media-and-map-sources) | Available now |
 
 ## Story at a glance
 
-The proposed StoryMap keeps **place and time visible on every page**: a persistent locator map, an active year or date range, a chapter progress strip, and a clearly identified outbreak layer. Each Map Tour stop pairs a place with a dated event and a source-linked visual. The narrative, interaction pattern, and chapter list are in the [StoryMap plan](STORYMAP_PLAN.md).
+The live StoryMap keeps **place and time visible at every stop**: a persistent locator map, an active year or date range, and a chapter progress marker. Each Map Tour stop pairs a place with a dated event and source-linked evidence or historical visuals. The tour is a curated introduction, not a complete outbreak registry. Its narrative and expansion plan are in the [StoryMap notes](STORYMAP_PLAN.md).
 
 | Chapter | Geographic focus | What the reader can examine | Starting source |
 | --- | --- | --- | --- |
@@ -40,7 +44,7 @@ The proposed StoryMap keeps **place and time visible on every page**: a persiste
 
 - **Outbreak chronology and counts:** Start with the [CDC history](https://www.cdc.gov/ebola/outbreaks/) and the event-specific WHO reports in [REFERENCES.md](REFERENCES.md). Each chart or map should show its source, report date, case definition, and last-updated date. The 2026 outbreak remains in progress; the [WHO report dated 20 November 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630) is the current reference used here, not a final total.
 - **Historic spatial data:** [Mylne et al. (2014)](https://doi.org/10.1038/sdata.2014.42) documented 22 outbreaks and 117 geographic transmission clusters. Cite both the [article](https://doi.org/10.1038/sdata.2014.42) and the [associated data collection](https://doi.org/10.6084/m9.figshare.1168886) if its records are used; check each downloaded dataset item's license before redistribution.
-- **Map basemaps:** [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/) is public-domain vector and raster data. If OpenStreetMap data are used later, display “© OpenStreetMap contributors” on the map and link to its [ODbL attribution terms](https://www.openstreetmap.org/copyright/attribution-guide).
+- **Map basemaps and locators:** The live tour uses [OpenStreetMap tiles](https://www.openstreetmap.org/copyright) with visible “© OpenStreetMap contributors” and [ODbL attribution](https://www.openstreetmap.org/copyright/attribution-guide). Tour pins are approximate orientation points based on the cited event sources, not case coordinates or a downloadable epidemiological dataset. [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/) is public-domain vector and raster data for future maps.
 - **Historical map images:** The [map catalog](MAP_CATALOG.md) lists file-specific public-domain and Creative Commons maps, their creators, underlying outbreak-data sources when identified, snapshot dates, and required credit. License and source information must travel with any reused image or derivative.
 - **Photos and video:** External links do not grant republication rights. Check rights for each individual photo or video before embedding, downloading, cropping, or editing it. The [CDC Museum timeline](https://cdcmuseum.org/exhibits/show/ebola/item/7) is linked for context; no image from that exhibit has been copied here.
 - **The Lancet perspective:** Its text and portraits are copyrighted by Elsevier. This repository links to and summarizes the lectures; it does not reproduce their pages or images.
