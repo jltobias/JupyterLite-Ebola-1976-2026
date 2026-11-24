@@ -1,0 +1,107 @@
+[
+  {
+    "id": "nzara-1976", "year": 1976, "period": "June–November 1976", "chapter": "Discovery", "title": "An outbreak in southern Sudan", "place": "Nzara and Maridi", "country": "Present-day South Sudan", "virus": "Sudan virus", "lat": 4.63, "lon": 28.27, "zoom": 7,
+    "summary": "The first documented Sudan virus outbreak spread through communities and health facilities around Nzara and Maridi. The original investigation describes four affected towns and shows why the 1976 story begins in more than one place.",
+    "question": "How did local movement and hospital care shape the first documented outbreak?",
+    "source": "WHO/International Study Team, 1978", "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395561/",
+    "visual": "Original 1976 field report and location map", "visualUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395561/"
+  },
+  {
+    "id": "yambuku-1976", "year": 1976, "period": "August–October 1976", "chapter": "Discovery", "title": "A second outbreak, a new virus", "place": "Yambuku area", "country": "Present-day Democratic Republic of the Congo", "virus": "Ebola virus", "lat": 2.82, "lon": 22.22, "zoom": 7,
+    "summary": "A separate investigation in the Yambuku area linked many infections to unsafe injections and close contact. The virus later took its name from the nearby Ebola River. This stop distinguishes the Zaire investigation from the Sudan investigation.",
+    "question": "What can a field investigation establish when laboratory capacity is limited?",
+    "source": "International Commission, 1978", "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395567/",
+    "visual": "CDC lecture on the 1976 response", "visualUrl": "https://www.youtube.com/watch?v=iZ3KWjBVW2k"
+  },
+  {
+    "id": "gabon-1994", "year": 1994, "period": "1994–1997", "chapter": "Recurring emergence", "title": "Outbreaks recur in Central Africa", "place": "Northeastern Gabon", "country": "Gabon", "virus": "Ebola virus", "lat": 0.6, "lon": 12.7, "zoom": 6,
+    "summary": "Several outbreaks in Gabon and neighboring areas showed that emergence was recurring, while the available location evidence varied in precision. The historic geographic database is the starting point for comparing these events without collapsing them into a single point.",
+    "question": "What does a regional cluster tell us—and what does it leave uncertain?",
+    "source": "Mylne et al., Scientific Data, 2014", "sourceUrl": "https://doi.org/10.1038/sdata.2014.42",
+    "visual": "Historical outbreak maps and GIS collection", "visualUrl": "https://doi.org/10.6084/m9.figshare.1168886"
+  },
+  {
+    "id": "kikwit-1995", "year": 1995, "period": "1995", "chapter": "Recurring emergence", "title": "Kikwit changes the response", "place": "Kikwit", "country": "Democratic Republic of the Congo", "virus": "Ebola virus", "lat": -5.04, "lon": 18.82, "zoom": 8,
+    "summary": "The Kikwit outbreak brought renewed attention to surveillance, infection prevention, contact tracing, and community trust. The 2026 anniversary lectures look back on this response, but the outbreak year is 1995, as documented in the original study.",
+    "question": "How did local clinical and community experience change outbreak practice?",
+    "source": "Khan et al., Journal of Infectious Diseases, 1999", "sourceUrl": "https://doi.org/10.1086/514306",
+    "visual": "CDC public-domain photograph: Kikwit hospital, 1995", "visualUrl": "https://commons.wikimedia.org/wiki/File:H%C3%B4pital_G%C3%A9n%C3%A9ral_de_Kikwit%2C_1995.png"
+  },
+  {
+    "id": "gulu-2000", "year": 2000, "period": "2000–2001", "chapter": "Recurring emergence", "title": "Uganda builds a local response", "place": "Gulu", "country": "Uganda", "virus": "Sudan virus", "lat": 2.77, "lon": 32.3, "zoom": 7,
+    "summary": "Uganda's 2000–2001 outbreak illustrates the importance of local surveillance, clinical organization, and community structures. It belongs to the Sudan virus lineage, distinct from Ebola virus disease caused by Ebola virus.",
+    "question": "Which response capacities can persist after an outbreak ends?",
+    "source": "Lamunu et al., International Journal of Infectious Diseases, 2004", "sourceUrl": "https://doi.org/10.1016/j.ijid.2003.04.001",
+    "visual": "Historic geographic outbreak database", "visualUrl": "https://doi.org/10.6084/m9.figshare.1168886"
+  },
+  {
+    "id": "bundibugyo-2007", "year": 2007, "period": "2007–2008", "chapter": "Recurring emergence", "title": "A third major Ebola disease virus", "place": "Bundibugyo District", "country": "Uganda", "virus": "Bundibugyo virus", "lat": 0.72, "lon": 30.07, "zoom": 8,
+    "summary": "Investigation in western Uganda identified Bundibugyo virus as a distinct cause of Ebola disease. Its identification is important for the timeline: outbreaks caused by different viruses cannot be treated as one uniform biomedical event.",
+    "question": "Why should a map legend identify the virus, not just the disease name?",
+    "source": "Wamala et al., Emerging Infectious Diseases, 2010", "sourceUrl": "https://doi.org/10.3201/eid1607.091525",
+    "visual": "Discovery study by Towner et al.", "visualUrl": "https://doi.org/10.1371/journal.ppat.1000212"
+  },
+  {
+    "id": "west-africa-2014", "year": 2014, "period": "2013–2016", "chapter": "West Africa", "title": "An epidemic crosses borders", "place": "Guinea, Liberia, Sierra Leone", "country": "West Africa", "virus": "Ebola virus", "lat": 8.6, "lon": -10.5, "zoom": 6,
+    "summary": "The largest Ebola epidemic to date began in southeastern Guinea and spread through the region. At this scale, dated district maps and changing case reports explain more than a single country marker. This 2014 stop represents one stage of a multi-year epidemic.",
+    "question": "How does the story change when we zoom from countries to districts and border crossings?",
+    "source": "WHO, West Africa outbreak overview", "sourceUrl": "https://www.who.int/emergencies/situations/ebola-outbreak-2014-2016-west-africa",
+    "visual": "CDC public-domain map, 17 December 2014", "visualUrl": "https://commons.wikimedia.org/wiki/File:2014_West_Africa_Ebola_virus_outbreak_situation_map.jpg"
+  },
+  {
+    "id": "equateur-2018", "year": 2018, "period": "May–July 2018", "chapter": "DRC responses", "title": "An outbreak in Équateur", "place": "Bikoro area", "country": "Democratic Republic of the Congo", "virus": "Ebola virus", "lat": -0.75, "lon": 18.2, "zoom": 7,
+    "summary": "The 2018 Équateur outbreak was a distinct event in western DRC. The dated June map shows the situation as it was reported during the response, not a final or timeless distribution.",
+    "question": "What did responders know at this date, and what would later reports add?",
+    "source": "CDC outbreak chronology", "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/",
+    "visual": "ERCC daily map, 7 June 2018 (CC BY 4.0)", "visualUrl": "https://commons.wikimedia.org/wiki/File:20180607_DRC_Congo_Ebola_DailyMap.pdf"
+  },
+  {
+    "id": "kivu-2018", "year": 2018, "period": "August 2018–June 2020", "chapter": "DRC responses", "title": "Eastern DRC: a prolonged response", "place": "North Kivu and Ituri", "country": "Democratic Republic of the Congo", "virus": "Ebola virus", "lat": 0.7, "lon": 29.6, "zoom": 7,
+    "summary": "A separate outbreak in eastern DRC unfolded across North Kivu and Ituri, amid insecurity and displacement. The tour keeps it separate from the Équateur event that began earlier in 2018.",
+    "question": "How can a map show separate outbreaks that overlap in calendar time?",
+    "source": "CDC outbreak chronology", "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/",
+    "visual": "ERCC daily map, 31 October 2018 (CC BY 4.0)", "visualUrl": "https://commons.wikimedia.org/wiki/File:20181031_Map_DRC_NordKivu_Ebola_DailyMap.pdf"
+  },
+  {
+    "id": "equateur-2020", "year": 2020, "period": "June–November 2020", "chapter": "DRC responses", "title": "A second geography in 2020", "place": "Mbandaka and Équateur", "country": "Democratic Republic of the Congo", "virus": "Ebola virus", "lat": 0.04, "lon": 18.26, "zoom": 7,
+    "summary": "Another Équateur outbreak began while the eastern DRC outbreak was still ongoing. Sequencing and field investigation helped distinguish its origin and transmission from the eastern event.",
+    "question": "Why is a shared year—or country—not enough to define one outbreak?",
+    "source": "CDC outbreak chronology", "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/",
+    "visual": "ERCC Équateur map, 7 August 2020 (CC BY 4.0)", "visualUrl": "https://commons.wikimedia.org/wiki/File:ECDM_20200807_DRC_Ebola_update.pdf"
+  },
+  {
+    "id": "guinea-2021", "year": 2021, "period": "2021", "chapter": "Recent outbreaks", "title": "Guinea sees Ebola again", "place": "Nzérékoré region", "country": "Guinea", "virus": "Ebola virus", "lat": 7.76, "lon": -8.82, "zoom": 7,
+    "summary": "Guinea reported new Ebola virus disease cases after the West Africa epidemic had ended. The chronology raises questions about persistence, detection, and how a new event should be linked to earlier history without assuming identical transmission pathways.",
+    "question": "How can the timeline show recurrence without implying uninterrupted spread?",
+    "source": "CDC outbreak chronology", "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/",
+    "visual": "CDC outbreak history and regional overview", "visualUrl": "https://www.cdc.gov/ebola/outbreaks/"
+  },
+  {
+    "id": "uganda-2022", "year": 2022, "period": "September 2022–January 2023", "chapter": "Recent outbreaks", "title": "Sudan virus disease in Uganda", "place": "Mubende District", "country": "Uganda", "virus": "Sudan virus", "lat": 0.56, "lon": 31.39, "zoom": 7,
+    "summary": "Uganda declared a Sudan virus outbreak in September 2022. The 2022 map is a dated situation snapshot; the WHO event page records the outbreak's conclusion in January 2023.",
+    "question": "How do a map's data date and the outbreak's end date differ?",
+    "source": "WHO, Uganda 2022 outbreak overview", "sourceUrl": "https://www.who.int/emergencies/situations/ebola-uganda-2022",
+    "visual": "ERCC map, data as of 12 November 2022 (CC BY 4.0)", "visualUrl": "https://commons.wikimedia.org/wiki/File:20221115_Uganda_Ebola_Outbreak.png"
+  },
+  {
+    "id": "uganda-2025", "year": 2025, "period": "January–April 2025", "chapter": "Recent outbreaks", "title": "Another Sudan virus outbreak", "place": "Uganda (multiple districts)", "country": "Uganda", "virus": "Sudan virus", "lat": 1.25, "lon": 32.4, "zoom": 6,
+    "summary": "A separate Sudan virus outbreak was declared in Uganda in January 2025 and declared over in April. It is not the same event as the 2025 Ebola virus outbreak in DRC.",
+    "question": "How can a timeline keep nearby but biologically distinct events clear?",
+    "source": "WHO Disease Outbreak News, 26 April 2025", "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON566",
+    "visual": "WHO event report and district list", "visualUrl": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON566"
+  },
+  {
+    "id": "drc-2025", "year": 2025, "period": "September–December 2025", "chapter": "Recent outbreaks", "title": "The Bulape outbreak", "place": "Kasaï Province", "country": "Democratic Republic of the Congo", "virus": "Ebola virus", "lat": -4.5, "lon": 21.5, "zoom": 6,
+    "summary": "DRC declared an Ebola virus outbreak in the Bulape health zone in September 2025. The map link shows an October response snapshot; the CDC chronology records the outbreak's December conclusion.",
+    "question": "What changes between a response snapshot and a final event summary?",
+    "source": "CDC outbreak chronology", "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/",
+    "visual": "ERCC map, 3 October 2025 (CC BY 4.0)", "visualUrl": "https://commons.wikimedia.org/wiki/File:ECDM_20251003_DRC_Ebola.pdf"
+  },
+  {
+    "id": "bundibugyo-2026", "year": 2026, "period": "May–November 2026 and ongoing", "chapter": "An open chapter", "title": "2026 is still being written", "place": "Ituri and other affected areas", "country": "Democratic Republic of the Congo and reported international cases", "virus": "Bundibugyo virus", "lat": 1.5, "lon": 30.2, "zoom": 6,
+    "summary": "The 2026 Bundibugyo virus outbreak remains ongoing. WHO's 20 November report describes sustained transmission in DRC and reported cases beyond it. The map tour ends with a dated source, not a final total or a claim that the story has closed.",
+    "question": "What is known as of 17 November 2026, and what may change next?",
+    "source": "WHO Disease Outbreak News, 20 November 2026; data as of 17 November", "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+    "visual": "ERCC early snapshot, 4 June 2026 (CC BY 4.0)", "visualUrl": "https://commons.wikimedia.org/wiki/File:ECDM_20260604_DRC_Ebola_outbreak(1).pdf"
+  }
+]
