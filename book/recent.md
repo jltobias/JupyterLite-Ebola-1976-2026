@@ -1,0 +1,13 @@
+# 2022–2026: an open timeline
+
+The [2022–2023 Uganda outbreak](https://www.who.int/emergencies/situations/ebola-uganda-2022) and [2025 Uganda outbreak](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON566) involved Sudan virus. The 2025 DRC outbreak involved Ebola virus and appears separately in the [CDC outbreak history](https://www.cdc.gov/ebola/outbreaks/). A [November 2022 ERCC map](https://commons.wikimedia.org/wiki/File:20221115_Uganda_Ebola_Outbreak.png) and [October 2025 DRC ERCC map](https://commons.wikimedia.org/wiki/File:ECDM_20251003_DRC_Ebola.pdf) are dated visual records, not interchangeable end-of-outbreak maps.
+
+The 2026 Bundibugyo virus outbreak is ongoing in this book's 24 November 2026 edition. The [WHO report published 20 November](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630) gives **11,613 confirmed cases and 5,678 deaths in DRC as of 17 November 2026**, across 68 health zones in eight provinces. The report also describes cases outside DRC. These figures are a dated snapshot, not a final total; see the [WHO situation-report index](https://afro.who.int/health-topics/ebola-disease/outbreak-drc-26) for later updates.
+
+## Geographic and social context
+
+The [June 2026 ERCC map](https://commons.wikimedia.org/wiki/File:ECDM_20260604_DRC_Ebola_outbreak(1).pdf) shows an early stage of the 2026 event under CC BY 4.0. The [Ituri health-zone map](https://commons.wikimedia.org/wiki/File:Map_of_the_Ituri_Province_Ebola_outbreak.svg) is CC BY-SA 4.0 but changes over time; select a fixed revision and record its data date before reuse. Neither image should be described as the geography of November simply because the event continued into November.
+
+[Palmer and colleagues' cross-border brief](https://doi.org/10.19088/MHRN.2026.001) examines mobility and preparedness along the South Sudan–DRC border. Its three third-party maps are marked as reproduced with permission, so the brief's CC BY 4.0 text license does not clear those maps for this project. The [Africa Center's November explainer](https://africacenter.org/spotlight/ebola-drc/) discusses insecurity, access, and misinformation; its map and AFP photographs are linked rather than copied. Both works are interpretive context, not the source of this book's 17 November confirmed-case count.
+
+The [Saad and Hashim review](https://doi.org/10.1186/s43162-026-00659-2) offers background on clinical care and virology, but its 2026 figures are from May. [WHO's 21 May map](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON603), cited as that review's Figure 4 source, can be explored as an early snapshot; its image reuse terms need separate checking. The 2026 StoryMap stop uses the later WHO report for dated facts.

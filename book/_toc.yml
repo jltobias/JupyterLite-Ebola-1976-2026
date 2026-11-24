@@ -1,0 +1,13 @@
+format: jb-book
+root: index
+chapters:
+  - file: discovery
+  - file: recurrence
+  - file: west-africa
+  - file: eastern-drc
+  - file: recent
+  - file: maps-and-methods
+  - file: notebooks/timeline
+  - file: notebooks/geography
+  - file: notebooks/sources
+  - file: references

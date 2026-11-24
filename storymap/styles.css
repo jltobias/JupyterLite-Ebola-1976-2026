@@ -11,3 +11,4 @@
 @media(max-width:700px){#timeline-period{font-size:.61rem}}
 .source-block a[hidden]{display:none}
 .source-block{border-bottom:1px solid var(--line)}.source-block a:last-child{border-bottom:0}
+@media(max-width:700px){.topbar-right{gap:5px}.header-link{font-size:.62rem;padding:6px}.brand-mark{display:none}.brand{gap:0}}

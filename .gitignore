@@ -1,0 +1,8 @@
+site/
+book/_build/
+book/data/
+lab/files/
+**/.ipynb_checkpoints/
+__pycache__/
+.jupyterlite.doit.db
+.build-tmp/

@@ -1,6 +1,6 @@
 # References and attributions
 
-Accessed 24 November 2026. These sources support the README, literature review, map catalog, and StoryMap plan. A citation does not itself grant permission to republish a work; file-specific reuse terms are noted below.
+Accessed 24 November 2026. These sources support the README, Jupyter Book, JupyterLite Lab, literature review, map catalog, and StoryMap plan. A citation does not itself grant permission to republish a work; file-specific reuse terms are noted below.
 
 ## Foundational publications
 
