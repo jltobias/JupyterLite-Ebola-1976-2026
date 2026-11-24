@@ -43,6 +43,8 @@ Use symbol shape for geographic precision: a point for a documented settlement, 
 ## Publication and data checklist
 
 1. Create a versioned event table and source ledger, using [Mylne et al.](https://doi.org/10.6084/m9.figshare.1168886) for eligible historic records and dated WHO/CDC reports for later events. Check the Figshare item licenses before redistribution.
+
+   Use the [fixed 13 November 2026 Wikipedia outbreak list](https://en.wikipedia.org/w/index.php?title=List_of_Ebola_outbreaks&oldid=1385469746) only as a checklist to find potentially omitted events and follow its citations back to original reports; do not ingest its changing counts or map coordinates as the source ledger.
 2. For every map and media asset, record creator, source URL, license URL, data-as-of date, file revision, changes, and alt text. [MAP_CATALOG.md](MAP_CATALOG.md) is the starting inventory.
 3. Build the same event schema into the Jupyter Book and JupyterLite Lab so a chart in the notebook can link back to the corresponding StoryMap stop and source record.
 4. Expand the live tour with more events, accessible media descriptions, dated map layers, and links to future Jupyter Book and JupyterLite Lab chapters. Verify each public destination before adding its URL to the README.
