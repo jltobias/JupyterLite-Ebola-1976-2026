@@ -32,6 +32,7 @@ jobs:
         with:
           python-version: '3.11'
           cache: pip
+          cache-dependency-path: requirements-site.txt
       - name: Install site builders
         run: python -m pip install -r requirements-site.txt
       - name: Build StoryMap, Book, and Lab
