@@ -27,6 +27,12 @@
       </div>
     </header>
 
+    <nav class="timeline" aria-label="Interactive timeline, 1976 to 2026">
+      <div class="timeline-heading"><div><span class="eyebrow">TIME CONTEXT</span><strong id="timeline-current">1976</strong><span id="timeline-period">June–November 1976</span></div><span class="timeline-endpoints">1976 <span aria-hidden="true">→</span> 2026</span></div>
+      <div class="slider-wrap"><input id="year-slider" type="range" min="1976" max="2026" step="1" value="1976" aria-label="Choose a year between 1976 and 2026"><div class="decades" aria-hidden="true"><span>1976</span><span>1986</span><span>1996</span><span>2006</span><span>2016</span><span>2026</span></div></div>
+      <div id="timeline-events" class="timeline-events" aria-label="Tour stops in chronological order"></div>
+    </nav>
+
     <main class="workspace">
       <section class="story-panel" aria-labelledby="story-title">
         <div class="story-scroll">
@@ -72,12 +78,6 @@
         <button id="africa-button" class="africa-button" type="button">⌖ <span>View Africa</span></button>
       </section>
     </main>
-
-    <nav class="timeline" aria-label="Interactive timeline, 1976 to 2026">
-      <div class="timeline-heading"><div><span class="eyebrow">TIME CONTEXT</span><strong id="timeline-current">1976</strong><span id="timeline-period">June–November 1976</span></div><span class="timeline-endpoints">1976 <span aria-hidden="true">→</span> 2026</span></div>
-      <div class="slider-wrap"><input id="year-slider" type="range" min="1976" max="2026" step="1" value="1976" aria-label="Choose a year between 1976 and 2026"><div class="decades" aria-hidden="true"><span>1976</span><span>1986</span><span>1996</span><span>2006</span><span>2016</span><span>2026</span></div></div>
-      <div id="timeline-events" class="timeline-events" aria-label="Tour stops in chronological order"></div>
-    </nav>
   </div>
   <noscript><p class="noscript">This interactive tour needs JavaScript. The <a href="https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/STORYMAP_PLAN.md">text StoryMap plan</a> and <a href="https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/REFERENCES.md">references</a> remain available.</p></noscript>
 </body>

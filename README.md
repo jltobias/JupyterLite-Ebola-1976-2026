@@ -4,13 +4,15 @@
 
 ## 🗺️ [OPEN THE LIVE STORYMAP — 1976–2026 →](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/)
 
-**Follow 15 selected stops across 50 years.** The interactive map and timeline stay visible as you move through the tour; select a map pin, year, or event to jump to that story. [How the tour is sourced](STORYMAP_PLAN.md) · [Full references](REFERENCES.md)
+**Follow 15 selected stops across 50 years.** The timeline stays at the top of the StoryMap, above the interactive map and story, as you move through the tour; select a map pin, year, or event to jump to that story. [How the tour is sourced](STORYMAP_PLAN.md) · [Full references](REFERENCES.md)
 
 **Explore 50 years of Ebola history through place and time.** This repository publishes a Map Tour and timeline, a [Jupyter Book](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/book/), and a [browser-based JupyterLite Lab](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/lab/lab/index.html). It begins with the 1976 outbreaks in present-day South Sudan and the Democratic Republic of the Congo (DRC) and extends through the ongoing 2026 Bundibugyo virus disease outbreak. The 2026 chapter must be updated as official reports change. [WHO disease overview](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) · [CDC outbreak history](https://www.cdc.gov/ebola/outbreaks/) · [WHO situation report, 20 November 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630)
 
 **Featured 50-year perspective:** Peter Piot and Jean-Jacques Muyembe-Tamfum, [“50 years of Ebola research and response”](https://doi.org/10.1016/S0140-6736(26)01813-1), *The Lancet* (2026). Their paired lectures connect discovery and field investigation in 1976 with community-led response, research during outbreaks, and the institutions needed for future preparedness. See the [literature review](LITERATURE_REVIEW.md) and [full reference](REFERENCES.md#foundational-publications).
 
-> **Status, 24 November 2026:** The StoryMap, Jupyter Book, and JupyterLite Lab are published together. The tour currently contains 15 selected stops; the book has historical chapters and three executable notebooks, and the Lab opens those notebooks in the browser. These stops are not a complete outbreak registry. A 3D map and case-count dashboard remain future work; the StoryMap includes an interactive 2D map.
+**Landmark research:** The [literature review](LITERATURE_REVIEW.md#landmark-papers-across-the-five-decades) connects the 1977 virus-isolation report, 2011 clinical review, 2014 Guinea and genomic-surveillance studies, 2016 viral-adaptation experiment, and 2018 Bombali virus discovery. [Full publication citations](REFERENCES.md#landmark-studies-and-a-citation-survey) include a 2021 bibliometric survey whose citation ranking reflects a January 2020 search.
+
+> **Status, 25 November 2026:** The StoryMap, Jupyter Book, and JupyterLite Lab are published together. The tour currently contains 15 selected stops; the book has historical chapters and three executable notebooks, and the Lab opens those notebooks in the browser. These stops are not a complete outbreak registry. A 3D map and case-count dashboard remain future work; the StoryMap includes an interactive 2D map.
 
 ## Explore
 

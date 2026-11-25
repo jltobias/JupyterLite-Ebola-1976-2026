@@ -12,7 +12,8 @@
     "summary": "A separate investigation in the Yambuku area linked many infections to unsafe injections and close contact. The virus later took its name from the nearby Ebola River. This stop distinguishes the Zaire investigation from the Sudan investigation.",
     "question": "What can a field investigation establish when laboratory capacity is limited?",
     "source": "International Commission, 1978", "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2395567/",
-    "visual": "CDC lecture on the 1976 response", "visualUrl": "https://www.youtube.com/watch?v=iZ3KWjBVW2k"
+    "visual": "CDC lecture on the 1976 response", "visualUrl": "https://www.youtube.com/watch?v=iZ3KWjBVW2k",
+    "context": "Pattyn et al., 1977 virus-isolation report", "contextUrl": "https://doi.org/10.1016/S0140-6736(77)92002-5"
   },
   {
     "id": "gabon-1994", "year": 1994, "period": "1994–1997", "chapter": "Recurring emergence", "title": "Outbreaks recur in Central Africa", "place": "Northeastern Gabon", "country": "Gabon", "virus": "Ebola virus", "lat": 0.6, "lon": 12.7, "zoom": 6,
@@ -47,7 +48,9 @@
     "summary": "The largest Ebola epidemic to date began in southeastern Guinea and spread through the region. At this scale, dated district maps and changing case reports explain more than a single country marker. This 2014 stop represents one stage of a multi-year epidemic.",
     "question": "How does the story change when we zoom from countries to districts and border crossings?",
     "source": "WHO, West Africa outbreak overview", "sourceUrl": "https://www.who.int/emergencies/situations/ebola-outbreak-2014-2016-west-africa",
-    "visual": "CDC public-domain map, 17 December 2014", "visualUrl": "https://commons.wikimedia.org/wiki/File:2014_West_Africa_Ebola_virus_outbreak_situation_map.jpg"
+    "visual": "CDC public-domain map, 17 December 2014", "visualUrl": "https://commons.wikimedia.org/wiki/File:2014_West_Africa_Ebola_virus_outbreak_situation_map.jpg",
+    "context": "Baize et al., early Guinea investigation, 2014", "contextUrl": "https://doi.org/10.1056/NEJMoa1404505",
+    "analysis": "Gire et al., genomic surveillance, 2014", "analysisUrl": "https://doi.org/10.1126/science.1259657"
   },
   {
     "id": "equateur-2018", "year": 2018, "period": "May–July 2018", "chapter": "DRC responses", "title": "An outbreak in Équateur", "place": "Bikoro area", "country": "Democratic Republic of the Congo", "virus": "Ebola virus", "lat": -0.75, "lon": 18.2, "zoom": 7,
