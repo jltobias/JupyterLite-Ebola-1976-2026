@@ -8,4 +8,4 @@ The European Commission's Emergency Response Coordination Centre (ERCC) publishe
 
 The [PALM therapeutic trial](https://doi.org/10.1056/NEJMoa1910993) was conducted during the eastern DRC response and changed evidence for treating disease caused by Ebola virus. It should sit on the research timeline beside the outbreak, with its own publication date and trial population. Its results do not establish the same effectiveness for Bundibugyo virus.
 
-The [StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) uses separate stops and approximate locator pins. The notebook's source audit helps readers check which map and report support each stop.
+The [StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026-StoryMaps/) uses separate stops and approximate locator pins. The notebook's source audit helps readers check which map and report support each stop.

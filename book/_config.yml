@@ -1,5 +1,5 @@
 title: Fifty years of Ebola history, 1976–2026
-author: JupyterLite-Ebola-1976-2026 contributors
+author: JupyterLite-Ebola-1976-2026-StoryMaps contributors
 copyright: "2026"
 only_build_toc_files: true
 execute:
@@ -7,10 +7,10 @@ execute:
   run_in_temp: false
   timeout: 120
 repository:
-  url: https://github.com/jltobias/JupyterLite-Ebola-1976-2026
+  url: https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps
   branch: main
   path_to_book: book
 html:
   use_repository_button: true
   use_edit_page_button: true
-  baseurl: https://jltobias.github.io/JupyterLite-Ebola-1976-2026/book/
+  baseurl: https://jltobias.github.io/JupyterLite-Ebola-1976-2026-StoryMaps/book/

@@ -12,6 +12,6 @@ Figure 1 of the [1978 Sudan paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC2395
 
 ## What the map can say
 
-The tour's Nzara/Maridi and Yambuku pins represent **named areas**, not individual patient locations. A historical figure can establish where an investigation took place; it cannot, by itself, prove exact household locations or a single route between the two outbreaks. The [StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) lets readers move between both stops while keeping 1976 active on the timeline.
+The tour's Nzara/Maridi and Yambuku pins represent **named areas**, not individual patient locations. A historical figure can establish where an investigation took place; it cannot, by itself, prove exact household locations or a single route between the two outbreaks. The [StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026-StoryMaps/) lets readers move between both stops while keeping 1976 active on the timeline.
 
 For a first-person 50-year perspective, read [Piot and Muyembe-Tamfum's anniversary lectures](https://doi.org/10.1016/S0140-6736(26)01813-1). Their accounts are interpretive context; the two original reports remain the sources for mapped 1976 events. The lectures' pages and portraits are copyrighted and are linked here.

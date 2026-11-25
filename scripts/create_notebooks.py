@@ -44,7 +44,7 @@ save("timeline.ipynb", [
     md("""
     # Timeline explorer: 1976–2026
 
-    These are **15 editorially selected StoryMap stops**, not a count of outbreaks or patients. The 2026 outbreak is ongoing. Data: [project StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) and its cited reports; full [references](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/REFERENCES.md). Change the year and virus filters below, then run the cells again.
+    These are **15 editorially selected StoryMap stops**, not a count of outbreaks or patients. The 2026 outbreak is ongoing. Data: [project StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026-StoryMaps/) and its cited reports; full [references](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/REFERENCES.md). Change the year and virus filters below, then run the cells again.
     """),
     code(LOAD),
     code("""
@@ -94,7 +94,7 @@ save("geography.ipynb", [
     md("""
     # Geographic locator lab
 
-This plot shows **approximate StoryMap orientation points** on longitude and latitude axes. It has no country outlines or case coordinates. Open the [interactive 2D StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026/) for geographic context and source links at each stop. All locations and event descriptions are recorded in the project [references](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/REFERENCES.md).
+This plot shows **approximate StoryMap orientation points** on longitude and latitude axes. It has no country outlines or case coordinates. Open the [interactive 2D StoryMap](https://jltobias.github.io/JupyterLite-Ebola-1976-2026-StoryMaps/) for geographic context and source links at each stop. All locations and event descriptions are recorded in the project [references](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/REFERENCES.md).
     """),
     code(LOAD),
     code("""
@@ -136,7 +136,7 @@ This plot shows **approximate StoryMap orientation points** on longitude and lat
         print(f"{s['year']} | ({s['lat']:.2f}, {s['lon']:.2f}) | {s['place']} | {s['sourceUrl']}")
     """),
     md("""
-    The coordinates simplify places named in source reports. A health zone, district, or region should be mapped with its own documented boundary when doing epidemiology. The [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/MAP_CATALOG.md) identifies maps with known creators, dates, data provenance, and reuse conditions. An ecological suitability map such as [Pigott et al.](https://doi.org/10.7554/eLife.04395) answers a different question from a map of observed human cases.
+    The coordinates simplify places named in source reports. A health zone, district, or region should be mapped with its own documented boundary when doing epidemiology. The [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/MAP_CATALOG.md) identifies maps with known creators, dates, data provenance, and reuse conditions. An ecological suitability map such as [Pigott et al.](https://doi.org/10.7554/eLife.04395) answers a different question from a map of observed human cases.
     """),
 ])
 
@@ -145,7 +145,7 @@ save("sources.ipynb", [
     md("""
     # Source audit: follow a stop to its evidence
 
-The tour metadata records a source and visual link for each stop. This notebook checks that links are present and displays a small source ledger; it does **not** fetch live pages or certify that source contents are unchanged. For publication details and media rights, use [REFERENCES.md](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/REFERENCES.md) and the [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/MAP_CATALOG.md).
+The tour metadata records a source and visual link for each stop. This notebook checks that links are present and displays a small source ledger; it does **not** fetch live pages or certify that source contents are unchanged. For publication details and media rights, use [REFERENCES.md](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/REFERENCES.md) and the [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/MAP_CATALOG.md).
     """),
     code(LOAD),
     code("""

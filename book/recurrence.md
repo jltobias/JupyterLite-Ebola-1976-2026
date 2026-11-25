@@ -10,4 +10,4 @@ Ebola history between the first investigations and West Africa is a series of **
 
 ## Mapping a sparse historical record
 
-Some sources name a settlement; others report a district, health zone, or broader cluster. The notebook's approximate points simplify these differences to orient the reader. A research-quality spatial dataset needs each event's source, time interval, geographic unit, coordinate precision, case definition, and original map or table. The [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/MAP_CATALOG.md) lists historical maps that may be reused with their required credits.
+Some sources name a settlement; others report a district, health zone, or broader cluster. The notebook's approximate points simplify these differences to orient the reader. A research-quality spatial dataset needs each event's source, time interval, geographic unit, coordinate precision, case definition, and original map or table. The [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/MAP_CATALOG.md) lists historical maps that may be reused with their required credits.

@@ -1,6 +1,6 @@
 # References and attribution
 
-The repository's [full REFERENCES.md](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/REFERENCES.md) is the citation and attribution ledger for this book, the StoryMap, and the Lab. It covers all publications used here, original outbreak reports, map creators, media links, and reuse terms. The [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/MAP_CATALOG.md) gives asset-specific credits and exclusions.
+The repository's [full REFERENCES.md](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/REFERENCES.md) is the citation and attribution ledger for this book, the StoryMap, and the Lab. It covers all publications used here, original outbreak reports, map creators, media links, and reuse terms. The [map catalog](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/MAP_CATALOG.md) gives asset-specific credits and exclusions.
 
 ## Starting sources
 
@@ -14,4 +14,4 @@ The repository's [full REFERENCES.md](https://github.com/jltobias/JupyterLite-Eb
 
 ## Reuse reminder
 
-Links in this book do not authorize copying the linked images. The notebooks display their own simple diagrams from tour metadata. The book uses no patient-level data and republishes no third-party map, photo, or video. The full [source ledger](https://github.com/jltobias/JupyterLite-Ebola-1976-2026/blob/main/REFERENCES.md) explains where Creative Commons and public-domain maps may be reused with attribution.
+Links in this book do not authorize copying the linked images. The notebooks display their own simple diagrams from tour metadata. The book uses no patient-level data and republishes no third-party map, photo, or video. The full [source ledger](https://github.com/jltobias/JupyterLite-Ebola-1976-2026-StoryMaps/blob/main/REFERENCES.md) explains where Creative Commons and public-domain maps may be reused with attribution.
