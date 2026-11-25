@@ -5,6 +5,8 @@
   const els = {
     chapter: byId('chapter'), title: byId('story-title'), period: byId('period'),
     place: byId('place'), virus: byId('virus'), summary: byId('summary'),
+    caseCount: byId('case-count'), deathCount: byId('death-count'),
+    tollContext: byId('toll-context'), tollNote: byId('toll-note'), tollSource: byId('toll-source'),
     storyScroll: document.querySelector('.story-scroll'),
     photoImage: byId('photo-image'), photoCaption: byId('photo-caption'),
     photoCreator: byId('photo-creator'), photoSource: byId('photo-source'),
@@ -97,6 +99,13 @@
     els.period.textContent = stop.period;
     els.place.textContent = `${stop.place} · ${stop.country}`;
     els.virus.textContent = stop.virus;
+    els.caseCount.textContent = stop.metrics.cases.toLocaleString('en-US');
+    els.deathCount.textContent = stop.metrics.deaths.toLocaleString('en-US');
+    els.tollContext.textContent = `${stop.metrics.status} · ${stop.metrics.scope} · ${stop.metrics.definition}`;
+    els.tollNote.textContent = stop.metrics.note || '';
+    els.tollNote.hidden = !stop.metrics.note;
+    els.tollSource.href = stop.metrics.sourceUrl;
+    els.tollSource.textContent = `${stop.metrics.sourceLabel} ↗`;
     els.summary.textContent = stop.summary;
     els.photoImage.alt = stop.photo.alt;
     els.photoImage.src = stop.photo.src;

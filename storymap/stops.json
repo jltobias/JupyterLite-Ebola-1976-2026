@@ -36,6 +36,16 @@
       "date": "2019",
       "url": "https://www.youtube.com/watch?v=iZ3KWjBVW2k",
       "note": "Retrospective on the early investigations; it is not archival footage of Nzara."
+    },
+    "metrics": {
+      "cases": 284,
+      "deaths": 151,
+      "status": "Final reported total",
+      "scope": "Nzara, Maridi and surrounding areas, present-day South Sudan",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -75,6 +85,16 @@
       "date": "2015 site",
       "url": "https://www.onthetrailofebola.com/films.html",
       "note": "Documentary with film captured in Yambuku in 1976 and later interviews. Historical footage is linked, not copied."
+    },
+    "metrics": {
+      "cases": 318,
+      "deaths": 280,
+      "status": "Final reported total",
+      "scope": "Yambuku-area outbreak, DRC",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "Separate from the 1976 Sudan virus outbreak.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -112,6 +132,16 @@
       "date": "9 Jun 2026",
       "url": "https://gabontelevisions.ga/focus-prevention-virus-ebola/",
       "note": "A 2026 Gabon preparedness simulation. It shows present-day response planning, not archival footage of the 1994?1997 outbreaks."
+    },
+    "metrics": {
+      "cases": 51,
+      "deaths": 31,
+      "status": "Final reported total",
+      "scope": "1994 Makakou-area outbreak only",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "The stop also discusses later Gabon outbreaks; these figures do not add 1996 or 1997 events. An earlier CDC table listed 52 cases.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -149,6 +179,16 @@
       "date": "13 May 1995 footage; posted 2015",
       "url": "https://www.youtube.com/watch?v=mQHX-a0NwRU",
       "note": "Contemporaneous news footage. Its early figures and medical statements reflect reporting at the time; use the field study for the final record."
+    },
+    "metrics": {
+      "cases": 315,
+      "deaths": 254,
+      "status": "Final reported total",
+      "scope": "Kikwit and surrounding areas, DRC",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "Some older CDC tables list 250 deaths; this card follows the current CDC chronology.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -186,6 +226,16 @@
       "date": "28 Dec 2014",
       "url": "https://www.youtube.com/watch?v=-SiYIjY6hCw",
       "note": "Later reporting with residents’ recollections of the 2000–2001 Gulu outbreak."
+    },
+    "metrics": {
+      "cases": 425,
+      "deaths": 224,
+      "status": "Final reported total",
+      "scope": "2000-2001 Uganda outbreak, beginning in Gulu",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "The total includes later spread beyond Gulu.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -223,6 +273,16 @@
       "date": "June 2026",
       "url": "https://www.youtube.com/watch?v=uwY7RpkAWK8",
       "note": "2026 interviews looking back on the 2007 outbreak; the video is a retrospective, not 2007 footage."
+    },
+    "metrics": {
+      "cases": 131,
+      "deaths": 42,
+      "status": "Final reported total",
+      "scope": "Bundibugyo District, Uganda",
+      "definition": "Confirmed, probable and suspected cases and deaths",
+      "note": "Older compilations use different figures, including 149 cases and 37 deaths. This card uses the current CDC case definition.",
+      "sourceLabel": "CDC 2026 MMWR comparison",
+      "sourceUrl": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7537e1.htm/"
     }
   },
   {
@@ -264,6 +324,16 @@
       "date": "2019",
       "url": "https://www.youtube.com/watch?v=XqAtVDP-ELE",
       "note": "CDC retrospective on the West Africa epidemic and response."
+    },
+    "metrics": {
+      "cases": 28610,
+      "deaths": 11308,
+      "status": "Final reported total",
+      "scope": "2014-2016 West Africa epidemic, including connected countries",
+      "definition": "CDC cumulative reported outbreak cases and deaths",
+      "note": "The three core affected countries were Guinea, Liberia and Sierra Leone; the CDC count covers the wider epidemic.",
+      "sourceLabel": "CDC 2026 MMWR comparison",
+      "sourceUrl": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7537e1.htm/"
     }
   },
   {
@@ -301,6 +371,16 @@
       "date": "11 May 2018",
       "url": "https://www.youtube.com/watch?v=ScU_NBaajmM",
       "note": "WHO briefing on the 2018 Équateur Province response."
+    },
+    "metrics": {
+      "cases": 54,
+      "deaths": 33,
+      "status": "Final reported total",
+      "scope": "2018 Bikoro and Equateur Province outbreak, DRC",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "Separate from the eastern DRC outbreak beginning later in 2018.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -338,6 +418,16 @@
       "date": "2018",
       "url": "https://www.afro.who.int/media-centre/video/first-hand-look-new-ebola-outbreak-democratic-republic-congo",
       "note": "WHO video on the separate North Kivu outbreak and response in a conflict-affected area."
+    },
+    "metrics": {
+      "cases": 3481,
+      "deaths": 2299,
+      "status": "As of 3 July 2020",
+      "scope": "2018-2020 North Kivu, Ituri and South Kivu outbreak, DRC",
+      "definition": "3,323 confirmed and 158 probable cases; all reported deaths",
+      "note": "WHO/DRC Ministry of Health reports a later retrospective total than the CDC chronology (3,470 cases; 2,287 deaths).",
+      "sourceLabel": "WHO / DRC Ministry of Health final snapshot",
+      "sourceUrl": "https://www.who.int/emergencies/situations/Ebola-2019-drc-"
     }
   },
   {
@@ -375,6 +465,16 @@
       "date": "18 Nov 2020",
       "url": "https://www.afro.who.int/health-topics/ebola-virus-disease/end-ebola-11-drc",
       "note": "The WHO page hosts videos with a survivor and a responder from the 2020 Équateur outbreak, distinct from the eastern DRC outbreak."
+    },
+    "metrics": {
+      "cases": 130,
+      "deaths": 55,
+      "status": "Final reported total",
+      "scope": "2020 Mbandaka and Equateur Province outbreak, DRC",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "A separate western DRC outbreak while the eastern DRC outbreak was ending.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -412,6 +512,16 @@
       "date": "9 Apr 2021",
       "url": "https://ebolacommunicationnetwork.org/ebolacomresource/ebola-vaccination-saves-lives-guinea/",
       "note": "Guinean vaccination messages in French and local languages, produced during the 2021 response."
+    },
+    "metrics": {
+      "cases": 23,
+      "deaths": 12,
+      "status": "Final reported total",
+      "scope": "2021 Nzerekore-area outbreak, Guinea",
+      "definition": "Reported outbreak cases and deaths",
+      "note": "This is a new 2021 outbreak, not a continuation of the 2014-2016 epidemic count.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -449,6 +559,16 @@
       "date": "11 Nov 2022",
       "url": "https://msf.or.ke/news-and-resources/videos-and-photos/walk-through-ebola-treatment-centre-uganda",
       "note": "MSF tour of a treatment centre built for the 2022 Mubende-area response."
+    },
+    "metrics": {
+      "cases": 164,
+      "deaths": 77,
+      "status": "Final reported total",
+      "scope": "2022-2023 Uganda outbreak, beginning in Mubende",
+      "definition": "142 confirmed and 22 probable cases; 55 confirmed and 22 probable deaths",
+      "note": "CDC displays 55 confirmed deaths; this card uses WHO total deaths including probable deaths.",
+      "sourceLabel": "WHO Disease Outbreak News, 14 Jan 2023",
+      "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON433"
     }
   },
   {
@@ -486,6 +606,16 @@
       "date": "26 Apr 2025",
       "url": "https://www.youtube.com/watch?v=tQVCvnJ3bVU",
       "note": "WHO report on the end of the 2025 Sudan virus outbreak that began in Kampala."
+    },
+    "metrics": {
+      "cases": 14,
+      "deaths": 4,
+      "status": "Final reported total",
+      "scope": "2025 Uganda outbreak, beginning in Kampala",
+      "definition": "12 confirmed and 2 probable cases; 4 reported deaths",
+      "note": "This Sudan virus outbreak is separate from the 2022-2023 outbreak.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -523,6 +653,16 @@
       "date": "Oct 2025",
       "url": "https://www.youtube.com/watch?v=_hWxQw1kfX0",
       "note": "Reporting from Bulape during the 2025 Kasaï Province response."
+    },
+    "metrics": {
+      "cases": 64,
+      "deaths": 45,
+      "status": "Final reported total",
+      "scope": "2025 Bulape and Kasai Province outbreak, DRC",
+      "definition": "53 confirmed and 11 probable cases; 45 reported deaths",
+      "note": "The outbreak was declared over on 1 December 2025.",
+      "sourceLabel": "CDC outbreak chronology",
+      "sourceUrl": "https://www.cdc.gov/ebola/outbreaks/"
     }
   },
   {
@@ -564,6 +704,16 @@
       "date": "11 Aug 2026",
       "url": "https://www.afro.who.int/media-centre/video/ebola-drc-scaling-response-together",
       "note": "Dated August 2026 field update on the ongoing Bundibugyo virus outbreak; see the latest WHO report for current figures."
+    },
+    "metrics": {
+      "cases": 11762,
+      "deaths": 5775,
+      "status": "As of 20 November 2026",
+      "scope": "DRC only, across affected provinces",
+      "definition": "Laboratory-confirmed cases and confirmed deaths",
+      "note": "Provisional, not an Ituri-only count. Cross-border cases are excluded. Check the live CDC page for newer numbers.",
+      "sourceLabel": "CDC current situation, updated 23 Nov 2026",
+      "sourceUrl": "https://www.cdc.gov/ebola/situation-summary/index.html"
     }
   }
 ]
