@@ -81,3 +81,45 @@ Accessed through 25 November 2026. These sources support the README, Jupyter Boo
 ## Repository artwork
 
 The [README splash image](assets/ebola-timeline-splash.png) was generated for this repository in November 2026. It is decorative concept art rather than a map of real outbreak coordinates or counts. No third-party dataset or image was supplied to create it.
+
+## StoryMap photographs and linked videos
+
+The 15 StoryMap photographs below are local Wikimedia Commons preview JPEGs, no wider than 960 px. Each file page was checked for its own Creative Commons license on 25 November 2026. Wikimedia Commons generated the previews; we made no further file edits. The captions identify when a photograph is later geographic context rather than outbreak documentation. Attribution and license links also appear beside each image in the live StoryMap. The license applies to each photograph, not to other content in this repository.
+
+| Stop | Photograph, creator, date, and source | License |
+| --- | --- | --- |
+| nzara-1976 | [Cotton Factory in Nzara, South Sudan.jpg](https://commons.wikimedia.org/wiki/File:Cotton_Factory_in_Nzara%2C_South_Sudan.jpg) — Alanlemagne, 2017-02-15 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| yambuku-1976 | [Mâché de bumba.jpg](https://commons.wikimedia.org/wiki/File:M%C3%A2ch%C3%A9_de_bumba.jpg) — WINEUR, 2022-04-07 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| gabon-1994 | [Gabonese village.jpg](https://commons.wikimedia.org/wiki/File:Gabonese_village.jpg) — Martgael, 2015-08-16 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| kikwit-1995 | [Filair kikwit.jpg](https://commons.wikimedia.org/wiki/File:Filair_kikwit.jpg) — BlueSalo, 2008-07-14 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
+| gulu-2000 | [Gulu City.jpg](https://commons.wikimedia.org/wiki/File:Gulu_City.jpg) — Micheal Kaluba, 2022-06-19 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| bundibugyo-2007 | [Hills in Bundibugyo district in western Uganda 01.jpg](https://commons.wikimedia.org/wiki/File:Hills_in_Bundibugyo_district_in_western_Uganda_01.jpg) — B722N, 2024-11-17 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| west-africa-2014 | [CDC response to Ebola in Guinea.jpg](https://commons.wikimedia.org/wiki/File:CDC_response_to_Ebola_in_Guinea.jpg) — CDC Global, 2014-09-19 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| equateur-2018 | [Lac Tumba.jpg](https://commons.wikimedia.org/wiki/File:Lac_Tumba.jpg) — Précieux Muyoko, 2022-02-07 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| kivu-2018 | [MONUSCO facilitates delivery of medical logistics in Ebola hit Beni 19.jpg](https://commons.wikimedia.org/wiki/File:MONUSCO_facilitates_delivery_of_medical_logistics_in_Ebola_hit_Beni_19.jpg) — MONUSCO / Mamadou Alain Coulibaly, 2018-08-05 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| equateur-2020 | [Fishermen preparing their nets for the next fishing trip on the Congo river. (14819761979).jpg](https://commons.wikimedia.org/wiki/File:Fishermen_preparing_their_nets_for_the_next_fishing_trip_on_the_Congo_river._(14819761979).jpg) — MONUSCO / Myriam Asmani, 2005-11-16 | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| guinea-2021 | [N'Zérékoré.jpg](https://commons.wikimedia.org/wiki/File:N%27Z%C3%A9r%C3%A9kor%C3%A9.jpg) — Yakoo1986, 2019-06-03 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| uganda-2022 | [Beats by Solar.jpg](https://commons.wikimedia.org/wiki/File:Beats_by_Solar.jpg) — Felixbyaruhanga, 2021-05-04 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| uganda-2025 | [Kampala.JPG](https://commons.wikimedia.org/wiki/File:Kampala.JPG) — Vebjorl, 2014-07-02 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| drc-2025 | [Tshikapa Bridge 2022.jpg](https://commons.wikimedia.org/wiki/File:Tshikapa_Bridge_2022.jpg) — Johnstanbul, 2022-11-30 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+| bundibugyo-2026 | [Territoire de Djugu.jpg](https://commons.wikimedia.org/wiki/File:Territoire_de_Djugu.jpg) — Juska Kanduvula, 2023-08-14 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+
+The videos below are **links to the publisher’s player or video page**. No video file, thumbnail, or frame is copied into this repository. The date and contextual note in each StoryMap stop distinguish contemporary footage, later interviews, and historical retrospectives. Linking does not grant reuse rights; consult the publisher before republishing footage.
+
+| Stop | Video and publisher | Date and relevance |
+| --- | --- | --- |
+| nzara-1976 | [We Were There—Ebola](https://www.youtube.com/watch?v=iZ3KWjBVW2k) — Centers for Disease Control and Prevention | 2019. Retrospective on the early investigations; it is not archival footage of Nzara. |
+| yambuku-1976 | [The Story of Yambuku](https://www.onthetrailofebola.com/films.html) — Marc Geenen / Institute of Tropical Medicine Antwerp | 2015 site. Documentary with film captured in Yambuku in 1976 and later interviews. Historical footage is linked, not copied. |
+| gabon-1994 | [Focus prévention virus Ebola](https://gabontelevisions.ga/focus-prevention-virus-ebola/) — Groupe Gabon Télévisions / Gabon 1ère | 9 Jun 2026. A Gabon preparedness simulation, not archival footage of the 1994–1997 outbreaks. |
+| kikwit-1995 | [Zaire: Kikwit: Ebola virus outbreak: update](https://www.youtube.com/watch?v=mQHX-a0NwRU) — AP Archive | 13 May 1995 footage; posted 2015. Contemporaneous news footage. Its early figures and medical statements reflect reporting at the time; use the field study for the final record. |
+| gulu-2000 | [How Uganda beat Ebola in 2000: How Gulu residents battled the outbreak](https://www.youtube.com/watch?v=-SiYIjY6hCw) — NTV Uganda | 28 Dec 2014. Later reporting with residents’ recollections of the 2000–2001 Gulu outbreak. |
+| bundibugyo-2007 | [Survivors of first Ebola Bundibugyo strain in 2007 share how the town learned](https://www.youtube.com/watch?v=uwY7RpkAWK8) — Associated Press / AP Archive | June 2026. 2026 interviews looking back on the 2007 outbreak; the video is a retrospective, not 2007 footage. |
+| west-africa-2014 | [2014–2016 outbreak of Ebola virus disease in West Africa](https://www.youtube.com/watch?v=XqAtVDP-ELE) — Centers for Disease Control and Prevention | 2019. CDC retrospective on the West Africa epidemic and response. |
+| equateur-2018 | [Ebola response in DR Congo tough and costly](https://www.youtube.com/watch?v=ScU_NBaajmM) — United Nations (WHO briefing) | 11 May 2018. WHO briefing on the 2018 Équateur Province response. |
+| kivu-2018 | [A first-hand look at the new Ebola outbreak in the DRC](https://www.afro.who.int/media-centre/video/first-hand-look-new-ebola-outbreak-democratic-republic-congo) — WHO Regional Office for Africa | 2018. WHO video on the separate North Kivu outbreak and response in a conflict-affected area. |
+| equateur-2020 | [End of the 11th Ebola outbreak—field videos](https://www.afro.who.int/health-topics/ebola-virus-disease/end-ebola-11-drc) — WHO Regional Office for Africa | 18 Nov 2020. The WHO page hosts videos with a survivor and a responder from the 2020 Équateur outbreak, distinct from the eastern DRC outbreak. |
+| guinea-2021 | [Ebola Vaccination Saves Lives (Guinea)](https://ebolacommunicationnetwork.org/ebolacomresource/ebola-vaccination-saves-lives-guinea/) — Johns Hopkins Center for Communication Programs / Ebola Communication Network | 9 Apr 2021. Guinean vaccination messages in French and local languages, produced during the 2021 response. |
+| uganda-2022 | [Walk through an Ebola treatment centre in Uganda](https://msf.or.ke/news-and-resources/videos-and-photos/walk-through-ebola-treatment-centre-uganda) — Médecins Sans Frontières Eastern Africa | 11 Nov 2022. MSF tour of a treatment centre built for the 2022 Mubende-area response. |
+| uganda-2025 | [Uganda declares end of Ebola outbreak](https://www.youtube.com/watch?v=tQVCvnJ3bVU) — World Health Organization | 26 Apr 2025. WHO report on the end of the 2025 Sudan virus outbreak that began in Kampala. |
+| drc-2025 | [Health workers say progress is being made with Ebola outbreak in Congo](https://www.youtube.com/watch?v=_hWxQw1kfX0) — Associated Press / AP Archive | Oct 2025. Reporting from Bulape during the 2025 Kasaï Province response. |
+| bundibugyo-2026 | [Ebola in the DRC: Scaling Up the Response, Together](https://www.afro.who.int/media-centre/video/ebola-drc-scaling-response-together) — WHO Regional Office for Africa | 11 Aug 2026. Dated August 2026 field update on the ongoing Bundibugyo virus outbreak; see the latest WHO report for current figures. |

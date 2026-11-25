@@ -5,6 +5,11 @@
   const els = {
     chapter: byId('chapter'), title: byId('story-title'), period: byId('period'),
     place: byId('place'), virus: byId('virus'), summary: byId('summary'),
+    storyScroll: document.querySelector('.story-scroll'),
+    photoImage: byId('photo-image'), photoCaption: byId('photo-caption'),
+    photoCreator: byId('photo-creator'), photoSource: byId('photo-source'),
+    photoLicense: byId('photo-license'), videoLink: byId('video-link'),
+    videoNote: byId('video-note'), videoCredit: byId('video-credit'),
     question: byId('question'), sourceLink: byId('source-link'), sourceLabel: byId('source-label'),
     visualLink: byId('visual-link'), visualLabel: byId('visual-label'),
     contextLink: byId('context-link'), contextLabel: byId('context-label'),
@@ -93,6 +98,19 @@
     els.place.textContent = `${stop.place} · ${stop.country}`;
     els.virus.textContent = stop.virus;
     els.summary.textContent = stop.summary;
+    els.photoImage.alt = stop.photo.alt;
+    els.photoImage.src = stop.photo.src;
+    els.photoCaption.textContent = stop.photo.caption;
+    els.photoCreator.textContent = stop.photo.creator;
+    els.photoSource.href = stop.photo.sourceUrl;
+    els.photoSource.textContent = `${stop.photo.title} (${stop.photo.date})`;
+    els.photoLicense.href = stop.photo.licenseUrl;
+    els.photoLicense.textContent = stop.photo.license;
+    els.videoLink.href = stop.video.url;
+    els.videoLink.textContent = `${stop.video.title} ↗`;
+    els.videoNote.textContent = stop.video.note;
+    els.videoCredit.textContent = `${stop.video.publisher} · ${stop.video.date} · linked video`;
+    els.storyScroll.scrollTop = 0;
     els.question.textContent = stop.question;
     els.sourceLink.href = stop.sourceUrl;
     els.sourceLabel.textContent = stop.source;
