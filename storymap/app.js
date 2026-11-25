@@ -22,7 +22,7 @@
     timelinePeriod: byId('timeline-period'), timelineEvents: byId('timeline-events'),
     stopList: byId('stop-list'), mapTitle: byId('map-caption-title'),
     mapSubtitle: byId('map-caption-subtitle'), africa: byId('africa-button'),
-    mapError: byId('map-error')
+    mapError: byId('map-error'), fullscreen: byId('fullscreen-button')
   };
 
   let stops;
@@ -169,6 +169,26 @@
   els.prev.addEventListener('click', () => selectStop(selectedIndex - 1));
   els.next.addEventListener('click', () => selectStop(selectedIndex + 1));
   els.africa.addEventListener('click', () => { if (map) map.fitBounds([[-35, -18], [20, 51]], { padding: [25, 25] }); });
+  if (!document.documentElement.requestFullscreen || !document.exitFullscreen) {
+    els.fullscreen.hidden = true;
+  } else {
+    els.fullscreen.addEventListener('click', async () => {
+      try {
+        if (document.fullscreenElement) await document.exitFullscreen();
+        else await document.documentElement.requestFullscreen();
+      } catch (error) {
+        console.warn('Full screen could not be opened:', error);
+      }
+    });
+    document.addEventListener('fullscreenchange', () => {
+      const active = Boolean(document.fullscreenElement);
+      els.fullscreen.textContent = active ? 'Exit full screen' : 'Full screen';
+      els.fullscreen.setAttribute('aria-label', active ? 'Exit full screen' : 'Enter full screen');
+      els.fullscreen.setAttribute('aria-pressed', String(active));
+      els.fullscreen.title = active ? 'Exit full screen' : 'Enter full screen';
+      if (map) requestAnimationFrame(() => map.invalidateSize());
+    });
+  }
   els.slider.addEventListener('input', () => {
     const year = Number(els.slider.value);
     let nearest = 0;

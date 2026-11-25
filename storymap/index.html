@@ -44,12 +44,6 @@
             <div><span class="label">WHERE</span><strong id="place">Africa</strong></div>
             <div><span class="label">VIRUS</span><strong id="virus">Multiple species</strong></div>
           </div>
-          <section class="outbreak-toll" aria-label="Reported cases and deaths for this outbreak">
-            <div class="toll-grid"><div><span class="label">REPORTED CASES</span><strong id="case-count">—</strong></div><div><span class="label">REPORTED DEATHS</span><strong id="death-count">—</strong></div></div>
-            <p id="toll-context" class="toll-context"></p>
-            <p id="toll-note" class="toll-note"></p>
-            <a id="toll-source" href="#" target="_blank" rel="noopener noreferrer">Count source ↗</a>
-          </section>
           <p id="summary" class="summary" aria-live="polite">Follow the map and timeline to see where Ebola disease outbreaks were documented across five decades.</p>
           <figure class="stop-photo">
             <img id="photo-image" alt="" loading="lazy" decoding="async" width="960">
@@ -58,6 +52,12 @@
               <span class="photo-credit"><span id="photo-creator"></span>, <a id="photo-source" href="#" target="_blank" rel="noopener noreferrer">source photograph</a>, <a id="photo-license" href="#" target="_blank" rel="noopener noreferrer">license</a>. Wikimedia Commons preview; no further edits.</span>
             </figcaption>
           </figure>
+          <section class="outbreak-toll" aria-label="Reported cases and deaths for this outbreak">
+            <div class="toll-grid"><div><span class="label">REPORTED CASES</span><strong id="case-count">—</strong></div><div><span class="label">REPORTED DEATHS</span><strong id="death-count">—</strong></div></div>
+            <p id="toll-context" class="toll-context"></p>
+            <p id="toll-note" class="toll-note"></p>
+            <a id="toll-source" href="#" target="_blank" rel="noopener noreferrer">Count source ↗</a>
+          </section>
           <div class="video-card"><span class="label">WATCH IN CONTEXT</span><a id="video-link" href="#" target="_blank" rel="noopener noreferrer"></a><p id="video-note"></p><span id="video-credit" class="video-credit"></span></div>
           <div class="question-card">
             <span class="question-icon" aria-hidden="true">?</span>
@@ -85,6 +85,7 @@
         <div id="map-error" class="map-error" hidden>Map tiles are unavailable. The story and timeline remain accessible; use the source links for geographic details.</div>
         <div class="map-topline"><span class="map-topline-dot" aria-hidden="true"></span><span>GEOGRAPHIC CONTEXT</span></div>
         <div class="map-caption"><span class="label">CURRENT STOP</span><strong id="map-caption-title">Africa</strong><span id="map-caption-subtitle">Approximate locator · not case coordinates</span></div>
+        <button id="fullscreen-button" class="fullscreen-button" type="button" aria-label="Enter full screen" aria-pressed="false" title="Enter full screen">Full screen</button>
         <button id="africa-button" class="africa-button" type="button">⌖ <span>View Africa</span></button>
       </section>
     </main>
